@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Adam Bockhorst
+ * Contemporary Programming
+ * Assignment08
+ * Due 10/21/2021
+ * Demonstrates forking, cloning, implementing interfaces, and pushing to repo
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
