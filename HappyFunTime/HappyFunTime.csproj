@@ -48,6 +48,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Students\Adam.cs" />
+    <Compile Include="Students\Drew.cs" />
     <Compile Include="Students\Brooks.cs" />
     <Compile Include="Students\Gavin.cs" />
     <Compile Include="Students\Hannah.cs" />
